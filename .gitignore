@@ -1,0 +1,4 @@
+.DS_Store
+crawled-files/
+mongodb/
+spiders/*.pyc
